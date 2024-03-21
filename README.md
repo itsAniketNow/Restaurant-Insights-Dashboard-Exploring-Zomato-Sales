@@ -23,7 +23,7 @@ The dataset used in this project provides comprehensive information about restau
 - Restaurants with good cuisine and an average rating.
 
 ## Dashboard
-![Zomato Dashboard](relative/path/to/image.png)
+![Zomato Dashboard](Zmato(1).png)
 
 The interactive dashboard provides a snapshot of various insights derived from the Zomato sales data. Users can explore key metrics such as average cost for two, votes, aggregate rating, cuisines, etc. The dashboard facilitates easy filtering based on user preferences, enabling informed decision-making for restaurant visits.
 
